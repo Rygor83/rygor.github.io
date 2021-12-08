@@ -1,6 +1,6 @@
 # My Projects
 
-1. [sap-command-line](https://rygor83.github.io/sap-command-line/)
+1. [sap-from-command-line](https://rygor83.github.io/sap-command-line/)
 
 Windows Command line tool for launching SAP systems from SAPlogon for SAP consultant and advanced SAP users.
 
