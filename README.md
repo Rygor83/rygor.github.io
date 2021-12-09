@@ -8,6 +8,6 @@ Windows Command line tool for launching SAP systems from SAPlogon for SAP consul
 
 Windows/Linux Command line calculator. Allows making calculations of any complexity directly in the console.
 
-* [nbrb.by](https://rygor83.github.io/nbrb_by/)
+* [nbrb.by](https://rygor83.github.io/nbrb.by/)
 
 Windows/Linux Command line for obtaining the official exchange rate and the refinancing rate of the Belarusian ruble against foreign currencies established by the National Bank of the Republic of Belarus
